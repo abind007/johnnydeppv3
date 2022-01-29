@@ -18,7 +18,7 @@ class script(object):
 - <a href=https://t.me/rumoursclub>RC TEAM</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and katrina will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and johnnydepp will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. johnnydepp should have admin privillage.
