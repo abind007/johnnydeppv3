@@ -57,7 +57,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/abind007/katrina/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/abind007/johnnydeppv3/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -66,7 +66,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/abind007/katrina
+git clone https://github.com/abind007/johnnydeppv3
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
