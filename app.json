@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/abind007/katrina",
-    "repository": "https://github.com/abind007/katrina",
+    "website": "https://github.com/abind007/johnnydeppv3",
+    "repository": "https://github.com/abind007/johnnydeppv3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
